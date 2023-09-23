@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "kanye_rest"
+version = "0.1.0"
+description = "Using the Kanye REST service to drop wisdom"
+authors = ["Alexander Alemayhu <alexander@alemayhu.com>"]
+license = "MIT"
+packages = [{ include = "kanye_rest", from = "src" }]
+
+[tool.poetry.scripts]
+kanye = "kanye_rest.main:main"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+requests = "^2.31.0"
+
+[tool.poetry.group.dev.dependencies]
+isort = "^5.12.0"
+black = "^23.9.1"
+mypy = "^1.5.1"
+types-requests = "^2.31.0.4"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
