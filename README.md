@@ -1,4 +1,4 @@
-![Kanye West picture|width=320](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kanye_West_by_David_Shankbone_%283465084618%29.jpg/1920px-Kanye_West_by_David_Shankbone_%283465084618%29.jpg)
+![Kanye West picture|width=320px](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kanye_West_by_David_Shankbone_%283465084618%29.jpg/320px-Kanye_West_by_David_Shankbone_%283465084618%29.jpg)
 
 # Kanye Rest
 
